@@ -2,6 +2,7 @@
   <p>1337x torrents</p>
 </h1>
 
+# THIS REPOSITORY HAS BEEN MOVED TO [sleeyax/stremio-addons](https://git.io/JvQGc)
 ## Features
 - Adds movies & series from 1337x
 
